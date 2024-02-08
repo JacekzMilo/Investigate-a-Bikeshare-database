@@ -1,5 +1,20 @@
-### **Investigate a Bikeshare database**
-The program's task was to provide data on users and bicycle rentals in three cities in the USA. Depending on the user's input, different data ranges were given. First, the user chooses the city from which he wants to display results. Then selects the month, day. He uses the NumPy and Pandas modules.
-### **Usage**
-In order to use this code you must have three .csv files filled with data from bikeshare company. They are available to download at udacity.com in nanodegree learning program. If you already have them, put them in one folder along with code file and start it with GitBash shell. Type:
-`ipython bikeshare.py` and then follow the instructions on the screen.
+# Investigate a Bikeshare Database
+
+This program provides data on users and bicycle rentals in three cities in the USA: Chicago, New York City, and Washington. The user can choose which city to display data for, and can also select a specific month and day to filter the results.
+
+## Tools Used
+
+The following tools were used to create this program:
+* [Python](https://www.python.org/)
+* [NumPy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+
+## Usage
+
+To use this program, you will need to have three `.csv` files filled with bikeshare data for the cities of Chicago, New York City, and Washington. These files can be downloaded from [Udacity](https://www.udacity.com/). Once you have the files, place them in the same directory as the `bikeshare.py` file.
+
+To run the program, open a GitBash shell and type `ipython bikeshare.py`. Then follow the prompts on the screen.
+
+## Notes
+
+This program was created as part of the [Udacity Nanodegree program](https://www.udacity.com/nanodegree).
